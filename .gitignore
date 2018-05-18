@@ -119,3 +119,21 @@ composer.phar
 sites/*/settings*.php
 sites/*/files
 sites/*/private
+
+# OFFICE
+*.tmp
+
+# Word temporary
+~$*.doc*
+
+# Excel temporary
+~$*.xls*
+
+# Excel Backup File
+*.xlk
+
+# PowerPoint temporary
+~$*.ppt*
+
+# Visio autosave temporary files
+*.~vsd*
